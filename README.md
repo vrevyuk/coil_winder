@@ -5,6 +5,8 @@ A 3D-printed reduction gear (1/2 or 1/3) keeps the screwdriver from overheating,
 optical sensor counts turns on the driven axle, and an **RP2040-Zero** shows the live
 coil-turn count on a **TM1637** 7-segment display.
 
+![Coil winder build: screwdriver, reduction gear, optical sensor, and RP2040-Zero driving a TM1637 display](demo.jpg)
+
 ## Hardware
 
 - **RP2040-Zero** — controller and power hub (USB-C 5 V)
