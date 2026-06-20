@@ -121,3 +121,7 @@ Flash the MicroPython UF2 to the RP2040-Zero, then copy both files to the board
 (e.g. with `mpremote` or Thonny). `main.py` runs on boot.
 
 ## 3D printer files
+
+- [`coil-winder.f3d`](coil-winder.f3d) — Autodesk Fusion 360 archive with the full
+  3D model (reduction gear, sensor disk, mounts). Open in Fusion 360 to edit or to
+  export STLs for printing.

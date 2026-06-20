@@ -15,6 +15,10 @@ coil-turn count on a **TM1637** 7-segment display.
 - Reduction gear between the screwdriver and the coil (3D printed)
 - Momentary push button (count reset)
 
+The 3D model (reduction gear, sensor disk, mounts) is in
+[`coil-winder.f3d`](coil-winder.f3d) — an Autodesk Fusion 360 archive; open it in
+Fusion 360 to edit or to export STLs for printing.
+
 ### Wiring
 
 | RP2040-Zero | Connects to            | Notes                                            |
